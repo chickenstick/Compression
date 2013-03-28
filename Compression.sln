@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compression", "Compression\Compression.csproj", "{BC55E634-0F6B-4804-899D-EA3D19FD20F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{589B6713-136C-4503-A182-F46AEFCAC2BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC55E634-0F6B-4804-899D-EA3D19FD20F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC55E634-0F6B-4804-899D-EA3D19FD20F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC55E634-0F6B-4804-899D-EA3D19FD20F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC55E634-0F6B-4804-899D-EA3D19FD20F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{589B6713-136C-4503-A182-F46AEFCAC2BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{589B6713-136C-4503-A182-F46AEFCAC2BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{589B6713-136C-4503-A182-F46AEFCAC2BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{589B6713-136C-4503-A182-F46AEFCAC2BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
